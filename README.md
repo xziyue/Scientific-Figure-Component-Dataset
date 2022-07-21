@@ -38,3 +38,7 @@ The annotation files are saved using the PNG format, with the pixel value corres
 
 
 This dataset is used to train the [SciEye method](https://github.com/xziyue/SciEye) for the [Dataset Plot Matching Competition](https://sites.google.com/g.syr.edu/cri-comp-2022/dataset-plot-matching-challenge).
+
+
+
+**WARNING: this dataset is constructed for training purposes only. The words in the figures are randomly chosen from a English dictionary, which may contain undesirable language. Please double check the contents if you wish to use graphs in this dataset for other purposes.**
